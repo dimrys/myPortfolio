@@ -1,0 +1,25 @@
+.project{
+    width: 400px;
+    background-color: chartreuse;
+}
+.icon{
+    width: 100%;
+    height: 300px;
+    background-color: chocolate;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.transition{
+    background-color: khaki;
+    padding: 10px;
+}
+.descriptionContainer{
+    width: 90%;
+    border: 1px solid;
+    margin: 0 auto;
+
+}
+.description{
+
+}
