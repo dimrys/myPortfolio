@@ -13,23 +13,24 @@
     <list default="true" id="8bef9138-7362-494b-9725-af4b9ab25ed2" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/Contact/Contact.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Contact/Contact.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Header/Header.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Header/Heaser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Footer/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Footer/Footer.module.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Main/Main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Main.module.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Nav/Nav.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Nav/Nav.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Projects/Project/Project.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Projects/Project/Project.module.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Projects/Projects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Projects/Projects.module.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Skils/Skill/Skill.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Skils/Skill/Skill.module.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Skils/Skills.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Skils/Skills.module.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/common/styles/Container.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Header/Heaser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Projects/Project/Project.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Project/Project.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Projects/Projects.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Projects.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Skils/Skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skils/Skills.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +50,29 @@
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1623330035" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1623330034" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="ProjectId" id="1pZ8SbOYdZebwaHcUtwWnf6zZvh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -104,7 +128,7 @@
       <updated>1615379252163</updated>
       <workItem from="1615379282732" duration="746000" />
       <workItem from="1622705945076" duration="7652000" />
-      <workItem from="1623315341950" duration="13146000" />
+      <workItem from="1623315341950" duration="17599000" />
     </task>
     <servers />
   </component>
