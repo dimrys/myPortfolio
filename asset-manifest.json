@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dimrys.github.io/myPortfolio/static/css/main.d39694e7.chunk.css",
+    "main.js": "/dimrys.github.io/myPortfolio/static/js/main.b1f443d6.chunk.js",
+    "main.js.map": "/dimrys.github.io/myPortfolio/static/js/main.b1f443d6.chunk.js.map",
+    "runtime-main.js": "/dimrys.github.io/myPortfolio/static/js/runtime-main.e34f8505.js",
+    "runtime-main.js.map": "/dimrys.github.io/myPortfolio/static/js/runtime-main.e34f8505.js.map",
+    "static/js/2.cd1fb06c.chunk.js": "/dimrys.github.io/myPortfolio/static/js/2.cd1fb06c.chunk.js",
+    "static/js/2.cd1fb06c.chunk.js.map": "/dimrys.github.io/myPortfolio/static/js/2.cd1fb06c.chunk.js.map",
+    "static/js/3.e61d2e6e.chunk.js": "/dimrys.github.io/myPortfolio/static/js/3.e61d2e6e.chunk.js",
+    "static/js/3.e61d2e6e.chunk.js.map": "/dimrys.github.io/myPortfolio/static/js/3.e61d2e6e.chunk.js.map",
+    "index.html": "/dimrys.github.io/myPortfolio/index.html",
+    "static/css/main.d39694e7.chunk.css.map": "/dimrys.github.io/myPortfolio/static/css/main.d39694e7.chunk.css.map",
+    "static/js/2.cd1fb06c.chunk.js.LICENSE.txt": "/dimrys.github.io/myPortfolio/static/js/2.cd1fb06c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e34f8505.js",
+    "static/js/2.cd1fb06c.chunk.js",
+    "static/css/main.d39694e7.chunk.css",
+    "static/js/main.b1f443d6.chunk.js"
+  ]
+}
