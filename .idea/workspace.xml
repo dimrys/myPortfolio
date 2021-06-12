@@ -10,27 +10,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bef9138-7362-494b-9725-af4b9ab25ed2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Contact/Contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contact/Contact.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Footer/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Footer/Footer.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nav/Nav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nav/Nav.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Projects/Project/Project.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Projects/Projects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Skils/Skill/Skill.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Skils/Skill/Skill.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Skils/Skills.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/styles/Container.module.css" afterDir="false" />
+    <list default="true" id="8bef9138-7362-494b-9725-af4b9ab25ed2" name="Default Changelist" comment="commit one">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header/Heaser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Projects/Project/Project.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Project/Project.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Projects/Projects.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/Projects.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Skils/Skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skils/Skills.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Skils/Skill/Skill.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skils/Skill/Skill.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,8 +113,16 @@
       <updated>1615379252163</updated>
       <workItem from="1615379282732" duration="746000" />
       <workItem from="1622705945076" duration="7652000" />
-      <workItem from="1623315341950" duration="17599000" />
+      <workItem from="1623315341950" duration="20185000" />
     </task>
+    <task id="LOCAL-00001" summary="commit one">
+      <created>1623335050444</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623335050444</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +139,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit one" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit one" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2469" y="187" key="FileChooserDialogImpl" timestamp="1615387527533">
@@ -168,5 +165,9 @@
       <screen x="1920" y="0" width="1536" height="864" />
     </state>
     <state width="1515" height="223" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1536.864@1920.0.1536.864" timestamp="1623316372483" />
+    <state x="2281" y="165" key="Vcs.Push.Dialog.v2" timestamp="1623335055462">
+      <screen x="1920" y="0" width="1536" height="864" />
+    </state>
+    <state x="2281" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864/1920.0.1536.864@1920.0.1536.864" timestamp="1623335055462" />
   </component>
 </project>
